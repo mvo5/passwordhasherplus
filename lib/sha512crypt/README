@@ -1,0 +1,4 @@
+Fetched from https://github.com/mvo5/sha512crypt-node
+
+Once we have a defined way to pull in dependencies in this extension
+at build time we should use the npm package.
